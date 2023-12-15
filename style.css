@@ -1,0 +1,56 @@
+
+
+.head {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline;
+    background-color: rgb(209, 128, 209);
+    padding: 16px;
+    display: table;
+    margin: auto;
+
+}
+
+.BHACS, .DHHW, .SLC {
+    margin: 24px auto;
+    background-color: pink;
+    text-align: center;
+    width: 240px;
+    height: 20px;
+    border-style: dotted;
+    padding-bottom: 28px;
+}
+
+img {
+    display: block;
+    margin: auto;
+    border: 6px solid black;
+}
+
+h2 {
+    background-color: pink;
+    display: table;
+    width: 100px;
+    padding: 12px;
+    border-style: dotted;
+}
+
+.ing {
+    list-style-type: square;
+}
+.ing, .instr {
+ 
+   background: lightcoral;
+   padding : 32px;
+}
+
+.ing li, .instr li {
+    background-color: pink;
+    padding: 8px
+}
+
+.para {
+    background-color: lightcoral;
+    padding: 8px;
+    display: table;
+}
